@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Inconsolata);
+
+body {
+	padding: 0; 
+	margin: 0;
+	background-color: black;
+	font-family: "Inconsolata", Helvetica, sans-serif;
+	color: white;
+	padding: 1.5em;
+} 
+
+h1 {
+	text-align: center;
+}
+
+canvas {
+	vertical-align: top;
+} 
+
+canvas#defaultCanvas0 {
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
